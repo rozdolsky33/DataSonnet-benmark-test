@@ -1,0 +1,21 @@
+local tracking=
+{
+    createdBy: {
+        id: objO.createdBy,
+        name: objT.createdBy
+    },
+    createdOn: objO.createdDatetime,
+    updatedBy: {
+        id: objO.lastModifiedBy,
+        name: objT.updatedBy
+    },
+    updatedOn: objO.lastModifiedDatetime
+};
+{
+    id: objO.id,
+    name: objO.name,
+} + {
+    years: objT.skillLevel,
+    tracking: tracking
+
+}

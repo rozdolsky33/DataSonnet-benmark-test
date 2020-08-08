@@ -1,0 +1,10 @@
+{
+  "skillId": 123,
+  "skillName": "Java",
+  "skillLevel": "5",
+  "skillNotes": "reliable",
+  "createdDate": "2018-03-06 02:43:09",
+  "lastUpdate": "2018-03-07 02:43:09",
+  "createdBy": "Stan Lee",
+  "updatedBy": "Steve Ditko"
+}
