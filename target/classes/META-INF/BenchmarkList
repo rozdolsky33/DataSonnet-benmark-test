@@ -1,9 +1,0 @@
-JMH S 24 com.arwest.JsonBenchmark S 49 com.arwest.generated.JsonBenchmark_domApi_jmhTest S 6 domApi S 10 Throughput E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E E E E 
-JMH S 24 com.arwest.JsonBenchmark S 47 com.arwest.generated.JsonBenchmark_gson_jmhTest S 4 gson S 10 Throughput E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E E E E 
-JMH S 24 com.arwest.JsonBenchmark S 71 com.arwest.generated.JsonBenchmark_slurperGroovyParseJsonString_jmhTest S 28 slurperGroovyParseJsonString S 10 Throughput E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E E E E 
-JMH S 24 com.arwest.JsonBenchmark S 51 com.arwest.generated.JsonBenchmark_readFile_jmhTest S 8 readFile S 10 Throughput E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E E E E 
-JMH S 24 com.arwest.JsonBenchmark S 52 com.arwest.generated.JsonBenchmark_streaming_jmhTest S 9 streaming S 10 Throughput E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E E E E 
-JMH S 24 com.arwest.JsonBenchmark S 53 com.arwest.generated.JsonBenchmark_dataSonnet_jmhTest S 10 dataSonnet S 10 Throughput E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E E E E 
-JMH S 24 com.arwest.JsonBenchmark S 74 com.arwest.generated.JsonBenchmark_slurperGroovyCreatingJsonString_jmhTest S 31 slurperGroovyCreatingJsonString S 10 Throughput E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E E E E 
-JMH S 24 com.arwest.JsonBenchmark S 80 com.arwest.generated.JsonBenchmark_slurperGroovyCreatingPrettyJsonString_jmhTest S 37 slurperGroovyCreatingPrettyJsonString S 10 Throughput E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E E E E 
-JMH S 24 com.arwest.JsonBenchmark S 50 com.arwest.generated.JsonBenchmark_binding_jmhTest S 7 binding S 10 Throughput E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E E E E 
